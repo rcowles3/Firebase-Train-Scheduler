@@ -9,16 +9,16 @@ $(document).ready(function() {
 
 
     // Initialize Firebase
-    var config = {
-        apiKey: "AIzaSyCzvOVZ1SzglffrC5bFPVZsw4dMx6L_66A",
-        authDomain: "train-scheduler-a202c.firebaseapp.com",
-        databaseURL: "https://train-scheduler-a202c.firebaseio.com",
-        // projectId: "train-scheduler-a202c",
-        storageBucket: "train-scheduler-a202c.appspot.com",
-        // messagingSenderId: "323632345024"
-    };
-    // Calling config file for firebase
-    firebase.initializeApp(config);
+    // var config = {
+    //     apiKey: "AIzaSyCzvOVZ1SzglffrC5bFPVZsw4dMx6L_66A",
+    //     authDomain: "train-scheduler-a202c.firebaseapp.com",
+    //     databaseURL: "https://train-scheduler-a202c.firebaseio.com",
+    //     // projectId: "train-scheduler-a202c",
+    //     storageBucket: "train-scheduler-a202c.appspot.com",
+    //     // messagingSenderId: "323632345024"
+    // };
+    // // Calling config file for firebase
+    // firebase.initializeApp(config);
 
     // VARIABLES 
     // ===============================================
